@@ -1,8 +1,5 @@
 # LeetCode-Solutions---Beginners
-Sure, here's a formatted version for your GitHub README file:
-
 ---
-
 # Hello Connections !!!
 
 My name is **Sriram Arasu T**, and I'm thrilled to kickstart this series aimed at beginners looking to dive into the exciting realm of coding using LeetCode. Whether you're studying electrical engineering like me or come from a different background, this series is designed to equip you with the fundamentals needed to excel in coding challenges and competitions. Let us share a curated range of problems that would help every enthusiast learn coding.
